@@ -131,7 +131,7 @@ var x2 = 6;
 var y1 = 2;
 var y2 = 10;
 
-var m = (y2-y1)/(x2-x1);
+var qw = (y2-y1)/(x2-x1);
 console.log(m);
 
 
